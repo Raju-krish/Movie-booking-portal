@@ -23,3 +23,6 @@ This CLI-based Movie Ticket Booking Portal, developed in C, provides a straightf
 - A C compiler (e.g., GCC)
 - Basic knowledge of command-line operations
 
+## Samples
+![Screenshot from 2024-09-08 19-24-24](https://github.com/user-attachments/assets/eaa6d979-19a0-43a8-be34-b2fa7f4e2102)
+
